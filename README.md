@@ -28,7 +28,7 @@ Throughout the semester, I completed exercises and projects covering the followi
 - [x] Functions and Procedures
 - [x] Pointers
 - [x] Practical Programming Assignments
-- [ ] Comprehensive Review Exercises
+- [x] Comprehensive Review Exercises
 
 ---
 
